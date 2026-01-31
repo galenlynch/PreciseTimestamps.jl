@@ -28,7 +28,6 @@ export
     add_seconds,
     datevec_to_precisedatetime,
     duration,
-    postgres_time_str,
     matlab_datestring,
     iso_fine_datestring,
     trailing_micros,
