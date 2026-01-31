@@ -1,0 +1,7 @@
+name = "PreciseTimestamps"
+uuid = "54b80fc8-3c35-4556-8cc1-32f813c15580"
+authors = ["Galen Lynch <galen@galenlynch.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.10"
